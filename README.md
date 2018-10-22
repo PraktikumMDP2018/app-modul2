@@ -14,7 +14,7 @@ Repo Berisi
 
 # Hanya Jadikan Source code ini acuan untuk mencoba kembali aplikasi yang akan dibuat
 Praktikan dilarang
-- Mengcopy Sourcecode ini untuk mengerjakan tugas praktikum modul 2 (gunakan sourcecode masing2 kelompok, repo ini cuman untuk acuan jika projek kalian ada yang eror)
-- Mengcopy Sourcecode ini untuk digunakan di modul selanjutnya
+- Menggunakan Sourcecode ini untuk mengerjakan tugas praktikum modul 2 (gunakan sourcecode masing2 kelompok, repo ini cuman untuk acuan jika projek kalian ada yang eror)
+- Menggunakan Sourcecode ini untuk digunakan di modul selanjutnya
 
 # Apabila praktikan dengan sengaja menggunakan source code ini sebagaimana 2 poin yang sudah di sebutkan diatas asisten modul 2 berhak untuk mengurangi nilai kelompok untuk nilai demo dan responsi jika ketahuan melanggar
